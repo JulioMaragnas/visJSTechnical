@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  service: `http://srvwindllo1/Aplicativos_Informaticos/LinkGestionService/api/Project/60,23`
 };
 
 /*
